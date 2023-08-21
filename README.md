@@ -7,27 +7,25 @@ Welcome to my GitHub profile! I'm excited to share a bit about myself and connec
 I'm a passionate software developer with a love for problem-solving and creative coding. My journey in the tech world has been a thrilling adventure, allowing me to explore various domains and technologies. From web development to machine learning, I'm always eager to learn and contribute to exciting projects.
 
 - 💼 Currently working on: Challenging coding projects that push my limits.
-- 🌱 Learning: Exploring advanced algorithms and diving deeper into cloud technologies.
+- 🌱 Learning: Exploring advanced algorithms, machine learning, and honing my skills in React development.
 - 🚀 Hobbies: Coding, reading sci-fi novels, and experimenting with new cooking recipes.
+
+## Expertise
+
+I have extensive knowledge in several programming languages and stacks, including:
+
+- Python 🐍
+- JavaScript 🌐
+- C++ 🔍
+- MERN Stack (MongoDB, Express, React, Node.js) 🛠️
 
 ## Connect with Me
 
 Let's connect and collaborate! Feel free to reach out to me on different platforms:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?style=for-the-badge&logo=Portfolio&logoColor=white)](https://www.yourportfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yourusername)
-
-## My Projects
-
-I'm constantly working on projects that challenge me and allow me to explore new technologies. Here are some of my recent works:
-
-- 🚀 [Project 1](https://github.com/yourusername/project1) - A web app that simplifies daily tasks using AI.
-- 🌍 [Project 2](https://github.com/yourusername/project2) - A geographical data visualization tool.
-- 🤖 [Project 3](https://github.com/yourusername/project3) - An AI-powered chatbot for customer support.
-
-Feel free to explore these projects and provide feedback. I'm always open to collaboration and improvement suggestions!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shreyas-sonawane-b24b48256/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shrey_1018/)
 
 ## Let's Connect
 
