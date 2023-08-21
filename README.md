@@ -14,10 +14,10 @@ I'm a passionate software developer with a love for problem-solving and creative
 
 Let's connect and collaborate! Feel free to reach out to me on different platforms:
 
-- 🌐 [Portfolio](https://www.yourportfolio.com) - Check out my personal portfolio to see some of my projects and interests.
-- 🐦 [Twitter](https://twitter.com/yourusername) - I share coding tips, tech trends, and occasional memes.
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile) - Let's connect professionally and discuss exciting opportunities.
-- 📷 [Instagram](https://www.instagram.com/yourusername) - Get a glimpse of my coding life and adventures.
+[![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?style=for-the-badge&logo=Portfolio&logoColor=white)](https://www.yourportfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yourusername)
 
 ## My Projects
 
