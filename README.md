@@ -8,7 +8,7 @@ I'm a passionate software developer with a love for problem-solving and creative
 
 - 💼 Currently working on: Challenging coding projects that push my limits.
 - 🌱 Learning: Exploring advanced algorithms, machine learning, and honing my skills in React development.
-- 🚀 Hobbies: Coding, reading sci-fi novels, and experimenting with new cooking recipes.
+- 🚀 Hobbies: Coding, reading manga, and gym.
 
 ## Expertise
 
